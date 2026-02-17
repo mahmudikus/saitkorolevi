@@ -65,7 +65,6 @@ body {
 
 
 .uchenik{
-    
     padding: 40px;
     text-align: center;
     box-shadow: 0 20px 15px rgba(11, 136, 145, 0.3), 0 20px 10px #ad3e3e1a;
@@ -74,4 +73,18 @@ body {
 .uchenik img{
     width: 400px;
     box-shadow: 10px 10px 15px rgba(11, 136, 145, 0.3), 0 20px 10px #ad3e3e1a;
+}
+.team-wrapper{
+    
+    width: 80vw;
+    height: auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 2em;
+    padding:30px 100px 30px 100px ;
+}
+
+.team{
+    text-align: center;
 }
