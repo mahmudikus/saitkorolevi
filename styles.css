@@ -88,3 +88,12 @@ body {
 .team{
     text-align: center;
 }
+
+div img {
+    display: grid;
+    margin: 0 auto;
+}
+
+div p {
+    margin: 5px 10px 20px 10px;
+}
