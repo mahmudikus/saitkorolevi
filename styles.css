@@ -65,7 +65,7 @@ body {
 
 
 .uchenik{
-    padding: 40px;
+    padding: 40px 0px 20px 0px;
     text-align: center;
     box-shadow: 0 20px 15px rgba(11, 136, 145, 0.3), 0 20px 10px #ad3e3e1a;
 }
@@ -95,5 +95,5 @@ div img {
 }
 
 div p {
-    margin: 15px 10px 20px 10px;
+    margin: 5px 10px 20px 10px;
 }
